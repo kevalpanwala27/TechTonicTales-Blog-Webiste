@@ -1,2 +1,2 @@
-api/node_modules
-api/uploads/*
+/node_modules
+/uploads/*
