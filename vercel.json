@@ -1,5 +1,5 @@
 {
-  "buildcommand": "cd client && yarn install && yarn start",
+  "buildCommand": "cd client && yarn install && yarn start",
   "outputDirectory": "client/build",
   "framework": "react",
   "rewrites": [
