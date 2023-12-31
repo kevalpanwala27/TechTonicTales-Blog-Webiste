@@ -1,0 +1,11 @@
+{
+  "buildcommand": "cd client && yarn install && yarn start",
+  "outputDirectory": "client/build",
+  "framework": "react",
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "api/index.js"
+    }
+  ]
+}
