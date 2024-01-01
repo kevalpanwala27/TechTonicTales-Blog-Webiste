@@ -52,7 +52,7 @@ To get started with TechTonicTales, follow the instructions below.
    ```bash
    cd api
    yarn install
-   node index.js
+   nodemon index.js
    ```
 
 5. **Configure your MongoDB connection:**
