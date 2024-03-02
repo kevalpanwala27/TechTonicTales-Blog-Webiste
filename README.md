@@ -43,15 +43,15 @@ To get started with TechTonicTales, follow the instructions below.
 
    ```bash
    cd client
-   yarn install
-   yarn start
+   npm install
+   npm run start
    ```
 
 4. **Install dependencies using Yarn:**
 
    ```bash
    cd api
-   yarn install
+   npm install
    nodemon index.js
    ```
 
